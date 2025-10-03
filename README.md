@@ -29,7 +29,3 @@ Transformar tu manera de trabajar está a solo unos comandos de distancia.
     ```bash
     python temporizador_pomodoro.py
     ```
-
-### 🎬 Mira cómo Funciona
-
-El temporizador se verá así en tu terminal, actualizándose en la misma línea para no saturar tu pantalla:
